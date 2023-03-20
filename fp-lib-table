@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/Project_Footprints/ESP8266.pretty")(options "")(descr ""))
+  (lib (name "ESP32")(type "KiCad")(uri "${KIPRJMOD}/Project_Footprints/ESP32.pretty")(options "")(descr ""))
+  (lib (name "EL3H7")(type "KiCad")(uri "${KIPRJMOD}/Project_Footprints/EL3H7.pretty")(options "")(descr ""))
+  (lib (name "Pi_Pico")(type "KiCad")(uri "${KIPRJMOD}/Project_Footprints/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)

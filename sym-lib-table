@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ESP8266")(type "Legacy")(uri "${KIPRJMOD}/Project_Symbols/ESP8266.lib")(options "")(descr ""))
+  (lib (name "Wemos_S2_Mini")(type "KiCad")(uri "${KIPRJMOD}/Project_Symbols/Wemos_S2_mini.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_Mini")(type "Legacy")(uri "${KIPRJMOD}/Project_Symbols/ESP32_mini.lib")(options "")(descr ""))
+  (lib (name "EL3H7")(type "KiCad")(uri "${KIPRJMOD}/Project_Symbols/EL3H7-G.kicad_sym")(options "")(descr ""))
+  (lib (name "Pi_Pico")(type "KiCad")(uri "${KIPRJMOD}/Project_Symbols/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+)
