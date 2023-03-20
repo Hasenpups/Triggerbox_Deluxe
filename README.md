@@ -11,3 +11,5 @@ It's a trigger device for multiple devices and input counter.
 - 8 x optocoupler input
 - 8 x high side switch 24V 500mA output
 - optional Wifi interface instead of USB connection (ESP32C3)
+
+![image](https://user-images.githubusercontent.com/29422053/226343920-c28fa90a-59fe-4881-a72a-8d2fbbd64346.png)
